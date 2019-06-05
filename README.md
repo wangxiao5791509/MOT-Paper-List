@@ -12,6 +12,18 @@ Voigtlaender, Paul, Michael Krause, Aljosa Osep, Jonathon Luiten, Berin Balachan
 
 
 
+## Review Papers: 
+1. [Multiple object tracking: A literature review](https://arxiv.org/pdf/1409.7618.pdf) arXiv preprint arXiv:1409.7618 (2014).
+Luo, Wenhan, Junliang Xing, Anton Milan, Xiaoqin Zhang, Wei Liu, Xiaowei Zhao, and Tae-Kyun Kim. 
+
+2. [Machine learning methods for solving assignment problems in multi-target tracking](https://arxiv.org/pdf/1802.06897). arXiv preprint arXiv:1802.06897 (2018). 
+Emami, Patrick, Panos M. Pardalos, Lily Elefteriadou, and Sanjay Ranka. 
+
+3. Slides: [Globally-Optimal Greedy Algorithms for Tracking a Variable Number of Objects](http://vision.stanford.edu/teaching/cs231b_spring1415/slides/greedy_fahim_albert.pdf), Hamed Pirsiavash, Deva Ramanan, and Charless C. Fowlkes University of California, Irvine, April 29, 2015
+
+
+
+
 ## Year-2019 
 1. CVPR-2019: "[Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers](https://arxiv.org/pdf/1809.03137)" 
 He, Zhen, Jian Li, Daxue Liu, Hangen He, and David Barber. [Code](https://github.com/zhen-he/tracking-by-animation)
