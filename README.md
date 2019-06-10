@@ -6,9 +6,12 @@ The paper list for Multi-Object-Tracking
 1. "[MOTS: Multi-Object Tracking and Segmentation](https://arxiv.org/pdf/1902.03604)" CVPR-2019. 
 Voigtlaender, Paul, Michael Krause, Aljosa Osep, Jonathon Luiten, Berin Balachandar Gnana Sekar, Andreas Geiger, and Bastian Leibe. 
 
-2. [MOT benchmark](https://motchallenge.net/) (MOT-2015, 2016, 2017): 
+2. [MOT benchmark](https://motchallenge.net/) 
 
-3. MOT16: A Benchmark for Multi-Object Tracking
+3. [MOT16: A Benchmark for Multi-Object Tracking](https://arxiv.org/pdf/1603.00831), Milan, Anton, Laura Leal-Taixé, Ian Reid, Stefan Roth, and Konrad Schindler. arXiv preprint arXiv:1603.00831 (2016).
+
+4. [Vision meets drones: a challenge](https://arxiv.org/pdf/1804.07437), Zhu, Pengfei, Longyin Wen, Xiao Bian, Haibin Ling, and Qinghua Hu. arXiv preprint arXiv:1804.07437 (2018). 
+
 
 
 
