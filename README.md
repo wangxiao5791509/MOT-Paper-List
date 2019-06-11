@@ -28,10 +28,12 @@ Emami, Patrick, Panos M. Pardalos, Lily Elefteriadou, and Sanjay Ranka.
 
 
 ## Year-2019 
-1. CVPR-2019: "[Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers](https://arxiv.org/pdf/1809.03137)" 
-He, Zhen, Jian Li, Daxue Liu, Hangen He, and David Barber. [Code](https://github.com/zhen-he/tracking-by-animation)
+1. [Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers](https://arxiv.org/pdf/1809.03137) 
+He, Zhen, Jian Li, Daxue Liu, Hangen He, and David Barber. [Code](https://github.com/zhen-he/tracking-by-animation), CVPR-2019 
 
-2. 
+2. [Cross-Classification Clustering: An Efficient Multi-Object Tracking Technique for 3-D Instance Segmentation in Connectomics](http://openaccess.thecvf.com/content_CVPR_2019/papers/Meirovitch_Cross-Classification_Clustering_An_Efficient_Multi-Object_Tracking_Technique_for_3-D_Instance_CVPR_2019_paper.pdf). Meirovitch, Yaron, Lu Mi, Hayk Saribekyan, Alexander Matveev, David Rolnick, Casimir Wierzynski, and Nir Shavit, CVPR-2019 
+
+3. 
 
 
 
