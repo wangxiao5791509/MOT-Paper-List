@@ -1,5 +1,5 @@
 # MOT-Paper-List
-The paper list for Multi-Object-Tracking
+The paper list for Multi-Object-Tracking (Heavily borrowed from: [multi-object-tracking-paper-list](https://github.com/SpyderXu/multi-object-tracking-paper-list))
 
 
 ## Benchmarks: 
