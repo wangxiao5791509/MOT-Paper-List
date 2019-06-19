@@ -12,6 +12,8 @@ Voigtlaender, Paul, Michael Krause, Aljosa Osep, Jonathon Luiten, Berin Balachan
 
 4. [Vision meets drones: a challenge](https://arxiv.org/pdf/1804.07437), Zhu, Pengfei, Longyin Wen, Xiao Bian, Haibin Ling, and Qinghua Hu. arXiv preprint arXiv:1804.07437 (2018). 
 
+5. [UA-DETRAC Benchmark](https://detrac-db.rit.albany.edu/), [Project-page](https://detrac-db.rit.albany.edu/)
+
 
 
 
