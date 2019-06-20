@@ -3,16 +3,20 @@ The paper list for Multi-Object-Tracking (Heavily borrowed from: [multi-object-t
 
 
 ## Benchmarks: 
-1. "[MOTS: Multi-Object Tracking and Segmentation](https://arxiv.org/pdf/1902.03604)" CVPR-2019. 
-Voigtlaender, Paul, Michael Krause, Aljosa Osep, Jonathon Luiten, Berin Balachandar Gnana Sekar, Andreas Geiger, and Bastian Leibe. 
 
-2. MOT2015 benchmark, [Paper](https://arxiv.org/pdf/1504.01942.pdf), [Dataset](https://motchallenge.net/data/2D_MOT_2015/)
+1. MOT2015 benchmark, [Paper](https://arxiv.org/pdf/1504.01942.pdf), [Dataset](https://motchallenge.net/data/2D_MOT_2015/)
 
-3. [MOT16: A Benchmark for Multi-Object Tracking](https://arxiv.org/pdf/1603.00831), Milan, Anton, Laura Leal-Taixé, Ian Reid, Stefan Roth, and Konrad Schindler. arXiv preprint arXiv:1603.00831 (2016).
+2. MOT16: A Benchmark for Multi-Object Tracking, Milan, Anton, Laura Leal-Taixé, Ian Reid, Stefan Roth, and Konrad Schindler. arXiv preprint arXiv:1603.00831 (2016). [Paper](https://arxiv.org/pdf/1603.00831), [Dataset](https://motchallenge.net/data/MOT16/)
+
+3. MOT-2017 benchmark, [Project](https://motchallenge.net/data/MOT17/) 
 
 4. [Vision meets drones: a challenge](https://arxiv.org/pdf/1804.07437), Zhu, Pengfei, Longyin Wen, Xiao Bian, Haibin Ling, and Qinghua Hu. arXiv preprint arXiv:1804.07437 (2018). 
 
 5. UA-DETRAC Benchmark, [Paper](https://detrac-db.rit.albany.edu/Data/DETRAC-benchmark-report.pdf), [Project](https://detrac-db.rit.albany.edu/)
+
+6. "MOTS: Multi-Object Tracking and Segmentation" CVPR-2019. 
+Voigtlaender, Paul, Michael Krause, Aljosa Osep, Jonathon Luiten, Berin Balachandar Gnana Sekar, Andreas Geiger, and Bastian Leibe. [Paper](https://arxiv.org/pdf/1902.03604) 
+
 
 
 
