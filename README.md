@@ -43,12 +43,13 @@ He, Zhen, Jian Li, Daxue Liu, Hangen He, and David Barber. [Code](https://github
 
 2. [Cross-Classification Clustering: An Efficient Multi-Object Tracking Technique for 3-D Instance Segmentation in Connectomics](http://openaccess.thecvf.com/content_CVPR_2019/papers/Meirovitch_Cross-Classification_Clustering_An_Efficient_Multi-Object_Tracking_Technique_for_3-D_Instance_CVPR_2019_paper.pdf). Meirovitch, Yaron, Lu Mi, Hayk Saribekyan, Alexander Matveev, David Rolnick, Casimir Wierzynski, and Nir Shavit, CVPR-2019 
 
-3. DeepMOT: A Differentiable Framework for Training Multiple Object Trackers, Yihong Xu, Yutong Ban, Xavier Alameda-Pineda, Radu Horaud  [Paper](https://arxiv.org/abs/1906.06618#), [GitHub](https://github.com/yihongXU/deepMOT), arXiv 2019 
+3. DeepMOT: A Differentiable Framework for Training Multiple Object Trackers, Yihong Xu, Yutong Ban, Xavier Alameda-Pineda, Radu Horaud, arXiv 2019, [Paper](https://arxiv.org/abs/1906.06618#), [GitHub](https://github.com/yihongXU/deepMOT)
 
-4. Tracking without bells and whistles, Philipp Bergmann, Tim Meinhardt, Laura Leal-Taixe, [Paper](https://arxiv.org/pdf/1903.05625.pdf) 
-[GitHub](https://github.com/coming_soon) 
+4. Tracking without bells and whistles, Philipp Bergmann, Tim Meinhardt, Laura Leal-Taixe, [Paper](https://arxiv.org/pdf/1903.05625.pdf), [GitHub](https://github.com/coming_soon) 
 
-5. 
+5. Multi-Object Tracking with Multiple Cues and Switcher-Aware Classification, Feng, Weitao, Zhihao Hu, Wei Wu, Junjie Yan, and Wanli Ouyang, arXiv:1901.06129 (2019), [Paper](https://arxiv.org/pdf/1901.06129) 
+
+6. Learning Non-Uniform Hypergraph for Multi-Object Tracking, Wen, Longyin, Dawei Du, Shengkun Li, Xiao Bian, and Siwei Lyu, arXiv:1812.03621 (2018). [Paper](https://arxiv.org/pdf/1812.03621). 
 
 
 
@@ -67,8 +68,7 @@ Kim, Chanho and Li, Fuxin and Rehg, James M, ECCV-2018.
 Lin, Chung-Ching, and Ying Hung. CVPR-2018. 
 
 5. [Learning to Detect and Track Visible and Occluded Body Joints in a Virtual World](http://openaccess.thecvf.com/content_ECCV_2018/papers/Matteo_Fabbri_Learning_to_Detect_ECCV_2018_paper.pdf)
-Fabbri, Matteo, Fabio Lanzi, Simone Calderara, Andrea Palazzi, Roberto Vezzani, and Rita Cucchiara, ECCV-2018, [Project-page](http://imagelab.ing.unimore.it/jta)
-,[Github](https://github.com/fabbrimatteo/JTA-Dataset). 
+Fabbri, Matteo, Fabio Lanzi, Simone Calderara, Andrea Palazzi, Roberto Vezzani, and Rita Cucchiara, ECCV-2018, [Project-page](http://imagelab.ing.unimore.it/jta), [Github](https://github.com/fabbrimatteo/JTA-Dataset). 
 
 
 
