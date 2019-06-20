@@ -1,6 +1,8 @@
 # MOT-Paper-List
 The paper list for Multi-Object-Tracking (Heavily borrowed from: [multi-object-tracking-paper-list](https://github.com/SpyderXu/multi-object-tracking-paper-list))
 
+![MOT-demo](https://github.com/wangxiao5791509/MOT-Paper-List/blob/master/Tracking_D_clip.gif)
+
 
 ## Benchmarks: 
 
