@@ -43,7 +43,12 @@ He, Zhen, Jian Li, Daxue Liu, Hangen He, and David Barber. [Code](https://github
 
 2. [Cross-Classification Clustering: An Efficient Multi-Object Tracking Technique for 3-D Instance Segmentation in Connectomics](http://openaccess.thecvf.com/content_CVPR_2019/papers/Meirovitch_Cross-Classification_Clustering_An_Efficient_Multi-Object_Tracking_Technique_for_3-D_Instance_CVPR_2019_paper.pdf). Meirovitch, Yaron, Lu Mi, Hayk Saribekyan, Alexander Matveev, David Rolnick, Casimir Wierzynski, and Nir Shavit, CVPR-2019 
 
-3. 
+3. DeepMOT: A Differentiable Framework for Training Multiple Object Trackers, Yihong Xu, Yutong Ban, Xavier Alameda-Pineda, Radu Horaud  [Paper](https://arxiv.org/abs/1906.06618#), [GitHub](https://github.com/yihongXU/deepMOT), arXiv 2019 
+
+4. Tracking without bells and whistles, Philipp Bergmann, Tim Meinhardt, Laura Leal-Taixe, [Paper](https://arxiv.org/pdf/1903.05625.pdf) 
+[GitHub](https://github.com/coming_soon) 
+
+5. 
 
 
 
