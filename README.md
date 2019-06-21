@@ -70,7 +70,7 @@ Lin, Chung-Ching, and Ying Hung. CVPR-2018.
 5. [Learning to Detect and Track Visible and Occluded Body Joints in a Virtual World](http://openaccess.thecvf.com/content_ECCV_2018/papers/Matteo_Fabbri_Learning_to_Detect_ECCV_2018_paper.pdf)
 Fabbri, Matteo, Fabio Lanzi, Simone Calderara, Andrea Palazzi, Roberto Vezzani, and Rita Cucchiara, ECCV-2018, [Project-page](http://imagelab.ing.unimore.it/jta), [Github](https://github.com/fabbrimatteo/JTA-Dataset). 
 
-6. Real-time Multiple People Tracking with Deeply Learned Candidate Selection and Person Re-identification, Long Chen, Haizhou Ai, [Paper](https://arxiv.org/abs/1809.04427), [Code](https://github.com/longcw/MOTDT)
+6. Real-time Multiple People Tracking with Deeply Learned Candidate Selection and Person Re-identification, Long Chen, Haizhou Ai, Zijie Zhuang, Chong Shang, [Paper](https://arxiv.org/abs/1809.04427), [Code](https://github.com/longcw/MOTDT)
 
 7. 
 
