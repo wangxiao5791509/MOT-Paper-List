@@ -37,7 +37,11 @@ Luo, Wenhan, Junliang Xing, Anton Milan, Xiaoqin Zhang, Wei Liu, Xiaowei Zhao, a
 2. [Machine learning methods for solving assignment problems in multi-target tracking](https://arxiv.org/pdf/1802.06897). arXiv preprint arXiv:1802.06897 (2018). 
 Emami, Patrick, Panos M. Pardalos, Lily Elefteriadou, and Sanjay Ranka. 
 
-3. Slides: [Globally-Optimal Greedy Algorithms for Tracking a Variable Number of Objects](http://vision.stanford.edu/teaching/cs231b_spring1415/slides/greedy_fahim_albert.pdf), Hamed Pirsiavash, Deva Ramanan, and Charless C. Fowlkes University of California, Irvine, April 29, 2015
+3. Slides: [Globally-Optimal Greedy Algorithms for Tracking a Variable Number of Objects](http://vision.stanford.edu/teaching/cs231b_spring1415/slides/greedy_fahim_albert.pdf), Hamed Pirsiavash, Deva Ramanan, and Charless C. Fowlkes University of California, Irvine, April 29, 2015 
+
+4. DEEP LEARNING IN VIDEO MULTI-OBJECT TRACKING: A SURVEY, Gioele Ciaparrone, Francisco Luque Sánchez, Siham Tabik, Luigi Troiano, Roberto Tagliaferri, Francisco Herrera,[[arXiv]](https://arxiv.org/pdf/1907.12740.pdf) 
+
+
 
 
 
@@ -55,6 +59,10 @@ He, Zhen, Jian Li, Daxue Liu, Hangen He, and David Barber. [Code](https://github
 5. Multi-Object Tracking with Multiple Cues and Switcher-Aware Classification, Feng, Weitao, Zhihao Hu, Wei Wu, Junjie Yan, and Wanli Ouyang, arXiv:1901.06129 (2019), [Paper](https://arxiv.org/pdf/1901.06129) 
 
 6. Learning Non-Uniform Hypergraph for Multi-Object Tracking, Wen, Longyin, Dawei Du, Shengkun Li, Xiao Bian, and Siwei Lyu, arXiv:1812.03621 (2018). [Paper](https://arxiv.org/pdf/1812.03621). 
+
+7. End-to-End Learning Deep CRF models for Multi-Object Tracking, Jun Xiang, Chao Ma, Guohan Xu, Jianhua Hou, arXiv [[paper]](https://arxiv.org/pdf/1907.12176.pdf)
+
+8. End-to-end Recurrent Multi-Object Tracking and Trajectory Prediction with Relational Reasoning, Fabian B. Fuchs, Adam R. Kosiorek, Li Sun, Oiwi Parker Jones, Ingmar Posner, [[arXiv]](https://arxiv.org/pdf/1907.12887.pdf) 
 
 
 
