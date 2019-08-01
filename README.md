@@ -64,6 +64,8 @@ He, Zhen, Jian Li, Daxue Liu, Hangen He, and David Barber. [Code](https://github
 
 8. End-to-end Recurrent Multi-Object Tracking and Trajectory Prediction with Relational Reasoning, Fabian B. Fuchs, Adam R. Kosiorek, Li Sun, Oiwi Parker Jones, Ingmar Posner, [[arXiv]](https://arxiv.org/pdf/1907.12887.pdf) 
 
+9. Online Multi-Object Tracking Framework with the GMPHD Filter and Occlusion Group Management, Young-min Song, Kwangjin Yoon, Young-Chul Yoon, Kin-Choong Yow, Moongu Jeon, [[Paper]](https://arxiv.org/abs/1907.13347) 
+
 
 
 ## Year-2018 
